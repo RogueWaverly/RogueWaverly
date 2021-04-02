@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://linkedin.com/in/wroeger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: @wroeger" height="30" width="40" /></a> Message me on LinkedIn with any opportunities or interesting conversations</p>
-<p><a href="https://instagram.com/roguewaverly.art" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram: @roguewaverly.art" height="30" width="40" /></a> Follow my art or request custom mazes on Instagram @findyourwei.art</p>
+<p><a href="https://instagram.com/roguewaverly.art" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram: @roguewaverly.art" height="30" width="40" /></a> Follow my art or request custom mazes on Instagram @roguewaverly.art</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
