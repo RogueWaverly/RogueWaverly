@@ -1,19 +1,52 @@
-Hi, I'm Waverly Roeger
+<h3>Hi, I'm Waverly Roeger</h3>
+<p>Through code, community, and language, I am an artist and leader striving to bring order to chaos and make a positive impact on the world.</p>
 
-### About Me
-Through code, community, and language, I am an artist and leader striving to bring order to chaos and make a positive impact on the world.
+<h3>Seeking:</h3>
+<p>Beginning mid-April, I will be actively seeking senior or lead backend development roles in the NYC area.</p>
+<p>I'm also always looking for volunteer opportunities with computer science education.</p>
 
-### Values
-I value continually challenging myself, building communities, increasing diversity and cultural awareness especially in STEAM, and being a mentor and educator.
+<h3>Values:</h3>
+<ul>
+  <li>continually challenging myself</li>
+  <li>building communities</li>
+  <li>increasing diversity and cultural awareness especially in STEAM</li>
+  <li>being a mentor and educator</li>
+</ul>
 
-### Experience
-My professional and academic experience includes backend design and development with Python, relational database design (with a strong interest in graph databases), and RESTful API development with demonstrated abilities in leadership, project management, and team collaboration.
+<h3>Experience:</h3>
+<ul>
+  <li>backend design and development with Python</li>
+  <li>relational database design (with a strong interest in graph databases)</li>
+  <li>RESTful API development</li>
+  <li>leadership</li>
+  <li>project management</li>
+  <li>team collaboration</li>
+</ul>
 
-### Interests
-My interests include algorithms, graph theory, tech for social good, thoughtful design, improving education, creating mazes and algorithmic art, and sunsets.
+<h3>Interests:</h3>
+<ul>
+  <li>algorithms</li>
+  <li>graph theory</li>
+  <li>tech for social good</li>
+  <li>thoughtful design</li>
+  <li>improving education</li>
+  <li>creating mazes and algorithmic art</li>
+</ul>
 
-### Seeking
-Beginning mid-April, I will be actively seeking senior or lead backend development roles in the NYC area. I'm also always looking for volunteer opportunities with computer science education.
+<h3 align="left">Connect with me:</h3>
+<p>Message me on LinkedIn with any opportunities to further my passions, requests for custom mazes, or conversations about interests we share.</p>
+<p align="left">
+  <a href="https://linkedin.com/in/wroeger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: @wroeger" height="30" width="40" /></a>
+  <a href="https://twitter.com/RogueWaverly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter: @RogueWaverly" height="30" width="40" /></a>
+</p>
 
-### Contact Me
-Message me on [LinkedIn](https://www.linkedin.com/in/wroeger/) with any opportunities to further my passions, requests for custom mazes, or conversations about interests we share.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+</p>
