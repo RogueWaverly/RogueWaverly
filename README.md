@@ -34,11 +34,8 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p>Message me on LinkedIn with any opportunities to further my passions, requests for custom mazes, or conversations about interests we share.</p>
-<p align="left">
-  <a href="https://linkedin.com/in/wroeger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: @wroeger" height="30" width="40" /></a>
-  <a href="https://twitter.com/RogueWaverly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter: @RogueWaverly" height="30" width="40" /></a>
-</p>
+<p><a href="https://linkedin.com/in/wroeger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: @wroeger" height="30" width="40" /></a> Message me on LinkedIn with any opportunities or interesting conversations</p>
+<p><a href="https://instagram.com/findyourwei.art" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram: @findyourwei.art" height="30" width="40" /></a> Follow my art or request custom mazes on Instagram @findyourwei.art</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
