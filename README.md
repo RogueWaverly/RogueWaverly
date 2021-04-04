@@ -1,5 +1,5 @@
 <h3>Hi, I'm Waverly Roeger</h3>
-<p>I am an accomplished backend developer, maze artist, and community leader, striving to bring order to chaos and make a positive impact on the world.</p>
+<p>I am an accomplished backend engineer, maze artist, and community leader, striving to bring order to chaos and make a positive impact on the world.</p>
 
 <h3>Seeking:</h3>
 <p>Beginning mid-April, I will be actively seeking senior or lead backend development roles in the NYC area.</p>
