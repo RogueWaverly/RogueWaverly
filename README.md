@@ -47,3 +47,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
+
+<h3>My Current Resume:</h3>
+<a href="https://github.com/RogueWaverly/resume/"><img src="https://github.com/RogueWaverly/resume/blob/master/resume.png" alt="Resume"/></a>
