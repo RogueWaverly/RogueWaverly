@@ -2,7 +2,7 @@
 <p>I am an accomplished backend engineer, maze artist, and community leader, striving to bring order to chaos and make a positive impact on the world.</p>
 
 <h3>Seeking:</h3>
-<p>Beginning mid-April, I will be actively seeking senior or lead backend development roles in the NYC area.</p>
+<p>I am an accomplished backend engineer actively seeking a full-time role in the NYC area.</p>
 <p>I'm also always looking for volunteer opportunities with computer science education.</p>
 
 <h3>Values:</h3>
