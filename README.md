@@ -3,8 +3,16 @@
 
 <h3>Seeking:</h3>
 <p>I am an accomplished backend engineer actively seeking a full-time role in the NYC area.</p>
-<p>I'm also always looking for volunteer opportunities with computer science education.</p>
-
+<p>My current ideal role would
+<ol>
+  <li>cultivate my strengths in leadership, backend development, algorithms, and design,
+  <li>provide opportunities for me to mentor and be mentored, as well as give back to the community,
+  <li>be located in the NYC or Stamford area with flexible remote work,
+    <br>and would be for an organization with</br>
+  <li>a well-defined people-focused mission,
+  <li>tangible support for their employees during the pandemic (and beyond), and
+  <li>a demonstrable culture of and commitment to diversity and inclusion, especially racial equity.
+</ol></p>
 <h3>Values:</h3>
 <ul>
   <li>continually challenging myself</li>
