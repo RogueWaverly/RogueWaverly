@@ -1,26 +1,6 @@
 <h3>Hi, I'm Waverly Roeger</h3>
 <p>I am an accomplished backend engineer, maze artist, and community leader, striving to bring order to chaos and make a positive impact on the world.</p>
 
-<h3>Seeking:</h3>
-<p>I am an accomplished backend engineer actively seeking a full-time role in the NYC area.</p>
-<p>My current ideal role would
-<ol>
-  <li>cultivate my strengths in leadership, backend development, algorithms, and design,
-  <li>provide opportunities for me to mentor and be mentored, as well as give back to the community,
-  <li>be located in the NYC or Stamford area with flexible remote work,
-    <br>and would be for an organization with</br>
-  <li>a well-defined people-focused mission,
-  <li>tangible support for their employees during the pandemic (and beyond), and
-  <li>a demonstrable culture of and commitment to diversity and inclusion, especially racial equity.
-</ol></p>
-<h3>Values:</h3>
-<ul>
-  <li>continually challenging myself</li>
-  <li>building communities</li>
-  <li>increasing diversity and cultural awareness especially in STEAM</li>
-  <li>being a mentor and educator</li>
-</ul>
-
 <h3>Experience:</h3>
 <ul>
   <li>backend design and development with Python</li>
@@ -29,6 +9,14 @@
   <li>leadership</li>
   <li>project management</li>
   <li>team collaboration</li>
+</ul>
+
+<h3>Values:</h3>
+<ul>
+  <li>continually challenging myself</li>
+  <li>building communities</li>
+  <li>increasing diversity and cultural awareness especially in STEAM</li>
+  <li>being a mentor and educator</li>
 </ul>
 
 <h3>Interests:</h3>
@@ -55,6 +43,3 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
-
-<h3>My Current Resume:</h3>
-<a href="https://github.com/RogueWaverly/resume/"><img src="https://github.com/RogueWaverly/resume/blob/master/resume.png" alt="Resume"/></a>
